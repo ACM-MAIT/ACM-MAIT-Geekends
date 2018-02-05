@@ -14,3 +14,20 @@ Next t lines contain ith position.
 * 0 <= t <= 50
 * Indexing of the string starts from 0
 * No two strings are same.
+
+### **Sample Input**
+5
+vishal
+rohan
+ravinder
+ashish
+tanmay
+1
+0
+
+### **Sample Output**
+ashish
+ravinder
+rohan
+tanmay
+vishal
