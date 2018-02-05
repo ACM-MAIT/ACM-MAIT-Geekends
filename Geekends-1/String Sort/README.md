@@ -16,18 +16,18 @@ Next t lines contain ith position.
 * No two strings are same.
 
 ### **Sample Input**
-5
-vishal
-rohan
-ravinder
-ashish
-tanmay
-1
-0
+5 <br >
+vishal <br >
+rohan <br>
+ravinder <br>
+ashish <br>
+tanmay <br>
+1 <br>
+0 <br>
 
 ### **Sample Output**
-ashish
-ravinder
-rohan
-tanmay
-vishal
+ashish <br>
+ravinder <br>
+rohan <br>
+tanmay <br>
+vishal <br>
