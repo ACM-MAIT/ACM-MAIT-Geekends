@@ -8,3 +8,10 @@ The second line contains t space-separated integers, denoting the value of n.
 
 1<= t <= 10
 1 <= n <= 103
+
+### **Sample**
+
+For n=3: <br />
+187 <br />
+216 <br />
+345 <br />
