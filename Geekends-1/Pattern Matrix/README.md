@@ -6,8 +6,8 @@ The second line contains t space-separated integers, denoting the value of n.
 
 ### **Constraints**
 
-1<= t <= 10
-1 <= n <= 103
+* 1<= t <= 10 
+* 1 <= n <= 10^3
 
 ### **Sample**
 

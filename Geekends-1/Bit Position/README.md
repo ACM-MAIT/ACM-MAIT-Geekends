@@ -6,8 +6,8 @@ Next line contains two numbers whose common bit has to be found out.
 
 ### **Constraints**
 
-* 1<= t <= 105
-* 1<= a,b <= 105
+* 1<= t <= 10^5
+* 1<= a,b <= 10^5
 
 ### **Sample Input**
 1 <br>
