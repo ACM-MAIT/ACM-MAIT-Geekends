@@ -10,7 +10,7 @@ Next lines have one test-case each containing exactly 9 numbers, locating cells 
 Answer should contain the number of the move at which game is won by one of players (starting from 1) or 0 if the game is drawn (no winner) after the last move.
 
 ### **Constraints**
-* 1<= t <= 105
+* 1<= t <= 10^5
 * Indexing starts from 1
 
 ### **Sample Input**
