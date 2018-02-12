@@ -21,13 +21,13 @@ A line containing an array of time available on n days, separated by a space.<br
 
 ### **Output Format**
 For each test case, print the maximum fun time he can have after n days.<br>
-Since the answer could be very large you would need to take the mod of the answer with 109+7.
+Since the answer could be very large you would need to take the mod of the answer with 10^9+7.
 
 ### **Constraints**
 
 * 1<= t <= 5
-* 1<= n <= 105
-* 1<= time available on each day <= 106
+* 1<= n <= 10^5
+* 1<= time available on each day <= 10^6
 
 ### **Sample Input**
 1 <br>
