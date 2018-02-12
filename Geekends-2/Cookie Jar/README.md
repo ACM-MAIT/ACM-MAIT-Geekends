@@ -15,8 +15,8 @@ Number of cookies present in all the jars after n days.
 
 ### **Constraints**
 
-* 1<= t <= 105
-* 1<= n <= 109
+* 1<= t <= 10^5
+* 1<= n <= 10^9
 
 ### **Sample Input**
 2 <br>

@@ -9,8 +9,8 @@ Print 'Lucky' if the number is lucky, else print 'Unlucky'.
 
 ### **Constraints**
 
-* 1<= t <= 105
-* 1<= ticket no. <= 109
+* 1<= t <= 10^5
+* 1<= ticket no. <= 10^9
 * We keep summing the digits of number until a single digit is left. If the single digit is 7, the ticket is lucky.
 
 ### **Sample Input**

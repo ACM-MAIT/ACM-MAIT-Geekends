@@ -8,7 +8,7 @@ Next t lines contain ith position.
 
 ### **Constraints**
 
-* 1<= n <= 104
+* 1<= n <= 10^4
 * 1<= length of strings <= 50
 * All lower case alphabets are used
 * 0 <= t <= 50
